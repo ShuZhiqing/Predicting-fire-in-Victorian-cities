@@ -1,0 +1,542 @@
+MongoDB shell version v3.6.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.6.4
+TaskB_db    0.000GB
+admin       0.000GB
+config      0.000GB
+fit5148_db  0.000GB
+local       0.000GB
+switched to db fit5148_db
+climate
+fire
+{
+	"Station" : 948702,
+	"Date" : "2017-12-15",
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 52,
+	"WindSpeed  (knots)" : 7.1,
+	"Max Wind Speed" : 14,
+	"MAX" : "74.5*",
+	"MIN" : 53.1,
+	"Precipitation" : "0.00I"
+}
+{
+	"Latitude" : -35.543,
+	"Longitude" : 143.316,
+	"Confidence" : 86,
+	"Surface Temperature (Celcius)" : 67
+}
+{
+	"Latitude" : -37.966,
+	"Longitude" : 145.051,
+	"Confidence" : 78,
+	"Surface Temperature (Celcius)" : 68
+}
+{
+	"Latitude" : -37.875,
+	"Longitude" : 142.51,
+	"Confidence" : 93,
+	"Surface Temperature (Celcius)" : 73
+}
+{
+	"Latitude" : -37.613,
+	"Longitude" : 149.305,
+	"Confidence" : 95,
+	"Surface Temperature (Celcius)" : 75
+}
+{
+	"Latitude" : -38.057,
+	"Longitude" : 144.211,
+	"Confidence" : 93,
+	"Surface Temperature (Celcius)" : 73
+}
+{
+	"Latitude" : -37.624,
+	"Longitude" : 149.314,
+	"Confidence" : 90,
+	"Surface Temperature (Celcius)" : 66
+}
+{
+	"Latitude" : -37.95,
+	"Longitude" : 142.366,
+	"Confidence" : 92,
+	"Surface Temperature (Celcius)" : 70
+}
+{
+	"Latitude" : -36.282,
+	"Longitude" : 146.157,
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 71
+}
+{
+	"Latitude" : -37.642,
+	"Longitude" : 149.263,
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 65
+}
+{
+	"Latitude" : -37.634,
+	"Longitude" : 149.237,
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 71
+}
+{
+	"Latitude" : -37.605,
+	"Longitude" : 149.302,
+	"Confidence" : 98,
+	"Surface Temperature (Celcius)" : 83
+}
+{
+	"Latitude" : -37.6,
+	"Longitude" : 149.325,
+	"Confidence" : 99,
+	"Surface Temperature (Celcius)" : 86
+}
+{
+	"Latitude" : -37.618,
+	"Longitude" : 149.281,
+	"Confidence" : 95,
+	"Surface Temperature (Celcius)" : 76
+}
+{
+	"Latitude" : -37.606,
+	"Longitude" : 149.312,
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 87
+}
+{
+	"Latitude" : -37.61,
+	"Longitude" : 149.307,
+	"Confidence" : 97,
+	"Surface Temperature (Celcius)" : 80
+}
+{
+	"Latitude" : -37.609,
+	"Longitude" : 149.32,
+	"Confidence" : 99,
+	"Surface Temperature (Celcius)" : 84
+}
+{
+	"Latitude" : -37.945,
+	"Longitude" : 144.354,
+	"Confidence" : 93,
+	"Surface Temperature (Celcius)" : 73
+}
+{
+	"Latitude" : -37.862,
+	"Longitude" : 144.175,
+	"Confidence" : 87,
+	"Surface Temperature (Celcius)" : 65
+}
+{
+	"Latitude" : -36.94,
+	"Longitude" : 143.281,
+	"Confidence" : 89,
+	"Surface Temperature (Celcius)" : 69
+}
+{
+	"Latitude" : -37.477,
+	"Longitude" : 143.352,
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 93
+}
+Type "it" for more
+{
+	"Date" : "2017-12-15",
+	"Surface Temperature (Celcius)" : 42,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 52,
+	"Max Wind Speed" : 14
+}
+{
+	"Date" : "2017-12-15",
+	"Surface Temperature (Celcius)" : 36,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 52,
+	"Max Wind Speed" : 14
+}
+{
+	"Date" : "2017-12-15",
+	"Surface Temperature (Celcius)" : 38,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 52,
+	"Max Wind Speed" : 14
+}
+{
+	"Date" : "2017-12-15",
+	"Surface Temperature (Celcius)" : 40,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 52,
+	"Max Wind Speed" : 14
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 43,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 33,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 54,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 73,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 55,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 75,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 60,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 55,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 73,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 66,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 48,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 56,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 55,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 64,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Date" : "2017-12-16",
+	"Surface Temperature (Celcius)" : 57,
+	"Air Temperature(Celcius)" : 18,
+	"Relative Humidity" : 53.7,
+	"Max Wind Speed" : 13
+}
+{
+	"Air Temperature(Celcius)" : 28,
+	"Datetime" : "2017-12-27T00:02:14",
+	"Confidence" : 86,
+	"Surface Temperature (Celcius)" : 67
+}
+{
+	"Air Temperature(Celcius)" : 28,
+	"Datetime" : "2017-12-27T00:02:15",
+	"Confidence" : 82,
+	"Surface Temperature (Celcius)" : 63
+}
+{
+	"Air Temperature(Celcius)" : 17,
+	"Datetime" : "2017-12-25T04:29:08",
+	"Confidence" : 80,
+	"Surface Temperature (Celcius)" : 54
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T15:38:39",
+	"Confidence" : 94,
+	"Surface Temperature (Celcius)" : 43
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T04:35:13",
+	"Confidence" : 93,
+	"Surface Temperature (Celcius)" : 73
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T04:34:58",
+	"Confidence" : 84,
+	"Surface Temperature (Celcius)" : 55
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T04:34:58",
+	"Confidence" : 95,
+	"Surface Temperature (Celcius)" : 75
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T00:21:12",
+	"Confidence" : 93,
+	"Surface Temperature (Celcius)" : 73
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T04:34:57",
+	"Confidence" : 90,
+	"Surface Temperature (Celcius)" : 66
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T00:21:11",
+	"Confidence" : 82,
+	"Surface Temperature (Celcius)" : 55
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-16T00:20:53",
+	"Confidence" : 82,
+	"Surface Temperature (Celcius)" : 64
+}
+{
+	"Air Temperature(Celcius)" : 18,
+	"Datetime" : "2017-12-15T13:17:17",
+	"Confidence" : 92,
+	"Surface Temperature (Celcius)" : 42
+}
+{
+	"Air Temperature(Celcius)" : 17,
+	"Datetime" : "2017-12-14T04:47:25",
+	"Confidence" : 92,
+	"Surface Temperature (Celcius)" : 70
+}
+{
+	"Air Temperature(Celcius)" : 28,
+	"Datetime" : "2017-12-13T04:04:19",
+	"Confidence" : 83,
+	"Surface Temperature (Celcius)" : 60
+}
+{
+	"Air Temperature(Celcius)" : 17,
+	"Datetime" : "2017-12-09T00:14:34",
+	"Confidence" : 81,
+	"Surface Temperature (Celcius)" : 54
+}
+{
+	"Air Temperature(Celcius)" : 17,
+	"Datetime" : "2017-12-09T00:14:34",
+	"Confidence" : 87,
+	"Surface Temperature (Celcius)" : 61
+}
+{
+	"Air Temperature(Celcius)" : 17,
+	"Datetime" : "2017-12-09T00:14:33",
+	"Confidence" : 84,
+	"Surface Temperature (Celcius)" : 58
+}
+{
+	"Air Temperature(Celcius)" : 17,
+	"Datetime" : "2017-12-09T00:14:33",
+	"Confidence" : 86,
+	"Surface Temperature (Celcius)" : 60
+}
+{
+	"Air Temperature(Celcius)" : 15,
+	"Datetime" : "2017-12-08T13:11:44",
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 71
+}
+{
+	"Air Temperature(Celcius)" : 15,
+	"Datetime" : "2017-12-08T13:11:44",
+	"Confidence" : 100,
+	"Surface Temperature (Celcius)" : 54
+}
+Type "it" for more
+{
+	"Latitude" : -38.1665,
+	"Longitude" : 143.062,
+	"Surface Temperature (kelvin)" : 397.5,
+	"Datetime" : "2017-04-18T04:52:00",
+	"Power" : 239.8,
+	"Confidence" : 100,
+	"Date" : "2017-04-18",
+	"Surface Temperature (Celcius)" : 124
+}
+{
+	"Latitude" : -36.343,
+	"Longitude" : 142.1986,
+	"Surface Temperature (kelvin)" : 396.3,
+	"Datetime" : "2017-04-04T04:32:50",
+	"Power" : 233.4,
+	"Confidence" : 100,
+	"Date" : "2017-04-04",
+	"Surface Temperature (Celcius)" : 123
+}
+{
+	"Latitude" : -36.9318,
+	"Longitude" : 143.0907,
+	"Surface Temperature (kelvin)" : 396,
+	"Datetime" : "2017-05-01T04:14:20",
+	"Power" : 236,
+	"Confidence" : 100,
+	"Date" : "2017-05-01",
+	"Surface Temperature (Celcius)" : 122
+}
+{
+	"Latitude" : -37.017,
+	"Longitude" : 148.1297,
+	"Surface Temperature (kelvin)" : 394.3,
+	"Datetime" : "2017-03-18T03:50:50",
+	"Power" : 224.3,
+	"Confidence" : 100,
+	"Date" : "2017-03-18",
+	"Surface Temperature (Celcius)" : 121
+}
+{
+	"Latitude" : -34.9938,
+	"Longitude" : 141.876,
+	"Surface Temperature (kelvin)" : 394,
+	"Datetime" : "2017-05-13T04:40:20",
+	"Power" : 223.8,
+	"Confidence" : 100,
+	"Date" : "2017-05-13",
+	"Surface Temperature (Celcius)" : 120
+}
+{
+	"Latitude" : -37.8326,
+	"Longitude" : 143.4999,
+	"Surface Temperature (kelvin)" : 393.8,
+	"Datetime" : "2017-04-18T04:44:50",
+	"Power" : 220.4,
+	"Confidence" : 100,
+	"Date" : "2017-04-18",
+	"Surface Temperature (Celcius)" : 120
+}
+{
+	"Latitude" : -37.0745,
+	"Longitude" : 141.0692,
+	"Surface Temperature (kelvin)" : 393.7,
+	"Datetime" : "2017-04-13T04:28:10",
+	"Power" : 218.7,
+	"Confidence" : 100,
+	"Date" : "2017-04-13",
+	"Surface Temperature (Celcius)" : 120
+}
+{
+	"Latitude" : -36.1057,
+	"Longitude" : 141.7608,
+	"Surface Temperature (kelvin)" : 393.8,
+	"Datetime" : "2017-04-04T04:40:00",
+	"Power" : 212.5,
+	"Confidence" : 100,
+	"Date" : "2017-04-04",
+	"Surface Temperature (Celcius)" : 120
+}
+{
+	"Latitude" : -36.3521,
+	"Longitude" : 142.2008,
+	"Surface Temperature (kelvin)" : 394,
+	"Datetime" : "2017-04-04T04:32:40",
+	"Power" : 218.7,
+	"Confidence" : 100,
+	"Date" : "2017-04-04",
+	"Surface Temperature (Celcius)" : 120
+}
+{
+	"Latitude" : -36.4057,
+	"Longitude" : 140.9806,
+	"Surface Temperature (kelvin)" : 392.2,
+	"Datetime" : "2017-05-04T04:44:50",
+	"Power" : 214.4,
+	"Confidence" : 100,
+	"Date" : "2017-05-04",
+	"Surface Temperature (Celcius)" : 119
+}
+{ "Firecount" : 2, "Date" : "2017-03-06" }
+{ "Firecount" : 1, "Date" : "2017-03-07" }
+{ "Firecount" : 2, "Date" : "2017-03-08" }
+{ "Firecount" : 3, "Date" : "2017-03-09" }
+{ "Firecount" : 8, "Date" : "2017-03-10" }
+{ "Firecount" : 5, "Date" : "2017-03-12" }
+{ "Firecount" : 2, "Date" : "2017-03-13" }
+{ "Firecount" : 10, "Date" : "2017-03-14" }
+{ "Firecount" : 7, "Date" : "2017-03-15" }
+{ "Firecount" : 6, "Date" : "2017-03-17" }
+{ "Firecount" : 3, "Date" : "2017-03-18" }
+{ "Firecount" : 21, "Date" : "2017-03-19" }
+{ "Firecount" : 2, "Date" : "2017-03-24" }
+{ "Firecount" : 13, "Date" : "2017-03-25" }
+{ "Firecount" : 17, "Date" : "2017-03-26" }
+{ "Firecount" : 54, "Date" : "2017-03-28" }
+{ "Firecount" : 1, "Date" : "2017-03-29" }
+{ "Firecount" : 22, "Date" : "2017-03-31" }
+{ "Firecount" : 7, "Date" : "2017-04-01" }
+{ "Firecount" : 5, "Date" : "2017-04-02" }
+Type "it" for more
+{ "Avg temperature" : 60.5, "Date" : "2017-03-06" }
+{ "Avg temperature" : 64, "Date" : "2017-03-07" }
+{ "Avg temperature" : 51.5, "Date" : "2017-03-08" }
+{ "Avg temperature" : 46.666666666666664, "Date" : "2017-03-09" }
+{ "Avg temperature" : 69.375, "Date" : "2017-03-10" }
+{ "Avg temperature" : 88.2, "Date" : "2017-03-12" }
+{ "Avg temperature" : 38.5, "Date" : "2017-03-13" }
+{ "Avg temperature" : 65.6, "Date" : "2017-03-14" }
+{ "Avg temperature" : 46, "Date" : "2017-03-15" }
+{ "Avg temperature" : 59.5, "Date" : "2017-03-17" }
+{ "Avg temperature" : 79.33333333333333, "Date" : "2017-03-18" }
+{ "Avg temperature" : 65.57142857142857, "Date" : "2017-03-19" }
+{ "Avg temperature" : 49, "Date" : "2017-03-24" }
+{ "Avg temperature" : 66, "Date" : "2017-03-25" }
+{ "Avg temperature" : 56.88235294117647, "Date" : "2017-03-26" }
+{ "Avg temperature" : 60.925925925925924, "Date" : "2017-03-28" }
+{ "Avg temperature" : 51, "Date" : "2017-03-29" }
+{ "Avg temperature" : 48.72727272727273, "Date" : "2017-03-31" }
+{ "Avg temperature" : 46.714285714285715, "Date" : "2017-04-01" }
+{ "Avg temperature" : 45.2, "Date" : "2017-04-02" }
+Type "it" for more
+bye
+
+
